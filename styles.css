@@ -1,0 +1,36 @@
+body{
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.DP{
+    width: 130px;
+}
+
+.card{
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+
+    display: flex;
+    justify-content: space-around;
+
+    background: #D1FFD7;
+    border-bottom: 8px solid #A6D3A0;
+
+    text-align: center;
+    color: #2b2839;
+}
+
+.txt{
+    padding: 20px;
+    text-shadow: 1px 1px 5px green;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.border{
+    border: 1px dotted blue;
+}
